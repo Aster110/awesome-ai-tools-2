@@ -193,3 +193,4 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 
 ## Security/Monitoring  
 - [NSFW JS](https://nsfwjs.com/) - Client-side indecent content detection
+- [AI Image Detection](https://aiimagedetection.app/) - Checks whether an image was likely made by AI, reading Content Credentials and metadata first, then a detection model
